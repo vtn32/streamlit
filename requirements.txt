@@ -1,8 +1,8 @@
-streamlit==1.9.0=pypi_0
-pandas==1.4.2=py39hd77b12b_0
-pandas-datareader==0.10.0=pyhd3eb1b0_0
-numpy==1.21.5=py39h7a0a035_1
-matplotlib==3.5.1=py39haa95532_1
-yfinance==0.1.70=pypi_0
-keras==2.9.0=pypi_0
-keras-preprocessing==1.1.2=pypi_0
+streamlit==1.9.0
+pandas==1.4.2
+pandas-datareader==0.10.0
+numpy==1.21.5
+matplotlib==3.5.1
+yfinance==0.1.70
+keras==2.9.0
+keras-preprocessing==1.1.2
